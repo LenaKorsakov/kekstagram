@@ -10,7 +10,7 @@ A simple application in vanilla JavaScript that allows the user to upload their 
 - CSS
 
 ## Demo site
-<a href="https://lenakorsakov.github.io/kekstagram-2022/">Go to site</a>
+<a href="https://lenakorsakov.github.io/kekstagram/">Go to site</a>
 
 ## How to run app:
 
@@ -29,9 +29,4 @@ npm install
 
 ```bash
 npm start
-```
-
-- Check tests
-```bash
-npm test
 ```

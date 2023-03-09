@@ -5,15 +5,12 @@ A simple application in vanilla JavaScript that allows the user to upload their 
 //Here is a description with pictures.
 
 ## Stack
-- ReactJS,
-- Typescript,
-- React Router Dom,
-- Redux Toolkit,
-- Axios,
-- Jest.
+- JavaScript(ES18)
+- HTML
+- CSS
 
 ## Demo site
-Visit site: https://lenakorsakov.github.io/kekstagram-2022/
+<a href="https://lenakorsakov.github.io/kekstagram-2022/">Go to site</a>
 
 ## How to run app:
 

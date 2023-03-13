@@ -15,10 +15,6 @@ The most interesting thing about this app is that you can upload your own photo 
 You can also leave a description and hashtags under the photo. The forms have strict validation and verification of the entered data.
 ![Photo-screenshot](https://github.com/LenaKorsakov/kekstagram/blob/master/screens/loading-screen.png)
 
-The most interesting thing about this app is that you can upload your own photo to the site.  Right in the app you can edit the photo: apply one of the available effects, intensify or weaken the effect with a handy slider, and change the scale of the photo.
-You can also leave a description and hashtags under the photo. The forms have strict validation and verification of the entered data.
-![Loading-screenshot](https://github.com/LenaKorsakov/kekstagram/blob/master/screens/loading-screen.png)
-
 If the photo has been successfully sent to the server, a popup will appear with the message that it was successful. If an error occurs, a popup with an error message appears.
 ![Success-screenshot](https://github.com/LenaKorsakov/kekstagram/blob/master/screens/success-screen.png)
 
